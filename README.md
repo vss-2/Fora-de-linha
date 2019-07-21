@@ -5,6 +5,7 @@ Paródia mal feita, mas com carinho do https://outline.com
 ### Ctrl + Alt + T
 
 ```bash
+bash foradelinha.sh 
 https://oglobo.globo.com/sociedade/assistir-pornografia-polui-meio-ambiente-revela-pesquisa-23808873
 ```
 
